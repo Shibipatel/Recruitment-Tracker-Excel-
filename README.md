@@ -7,6 +7,7 @@
 A Recruitment Tracker Dashboard designed to monitor and manage the recruitment process for the period of September '24 to December '24. The dashboard provides detailed insights into the recruitment stages, monthly summaries, channel-wise application counts and costs, decline reasons, and the current status of the recruitment pipeline.
 
  **Features**
+ 
 Applicant Details: View detailed information about hired candidate.
 
 Status Summary: Visualize the recruitment pipeline with real-time status updates.
