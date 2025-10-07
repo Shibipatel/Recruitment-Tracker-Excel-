@@ -36,6 +36,7 @@ Visualize: Analyze the recruitment process using the various charts and summarie
 **Key Insights from the Recruitment Tracker Dashboard (Sep-Dec 2024)**
 
 1. Applicant Information:
+   
 Example:
 
 Name: Sunil Kulkarni
@@ -51,6 +52,7 @@ Time to Fill: 15 Days
 Channel: Indeed
 
 2. Status Summary:
+   
 Applications: 62
 
 Phone Screening: 42
@@ -62,6 +64,7 @@ Hires Made: 8
 Insight: The funnel shows a significant drop-off between applications and hires. Enhancing the phone screening process might help to retain more quality candidates.
 
 3. Monthwise Recruitment Summary:
+   
 September: 14 hires
 
 October: 20 hires
@@ -73,6 +76,7 @@ December: 10 hires
 Insight: There was a peak in recruitment activity in October, followed by a decline in December. Analyzing the factors contributing to the peak can help replicate the success.
 
 4. Channelwise Count and Cost of Applications:
+   
 Indeed: 29 applications, 8k
 
 LinkedIn: 9 applications, 19k
@@ -84,6 +88,7 @@ Company Portal: 15 applications, 13k
 Insight: The Indeed Portal provided a significant number of applications at lesser cost. It's a highly cost-effective channel compared to others.
 
 5. Decline Reason Summary:
+   
 Culture Fit: 15%
 
 Inexperienced: 22%
@@ -95,6 +100,7 @@ Technically Weak: 29%
 Insight: A large percentage of candidates (34%) were declined due to knowledge issues. Enhancing job descriptions and pre-screening tests can help attract more qualified candidates.
 
 6. Open Pipeline:
+   
 Applications: 3
 
 Phone Screening: 7
