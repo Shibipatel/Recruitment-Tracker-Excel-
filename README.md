@@ -111,3 +111,8 @@ Interviews: 3
 Hired: 1
 
 Insight: There are candidates still in the pipeline. It's crucial to expedite(speed up) the process to avoid losing potential hires to other opportunities.
+
+
+<img width="1866" height="520" alt="Screenshot 2025-10-08 145634" src="https://github.com/user-attachments/assets/e5fa750f-8661-452a-a8ca-5938e0c8fca2" />
+
+
